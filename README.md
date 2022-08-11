@@ -1,1 +1,1 @@
-# This is my first attempt in publishing a website after learning some basic HTML skills. This website is dubbed Tobias' Site and it will contain some basic information about myself, it is made in HTML only.
+This is my website!
